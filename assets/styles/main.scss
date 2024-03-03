@@ -1,0 +1,38 @@
+* {
+  transition: all 0.15s linear;
+  border-radius: 4px;
+  outline: 2px solid #00000000;
+}
+*:focus {
+  outline: 2px solid rgba(0, 0, 0, 0.5);
+}
+svg {
+  vertical-align: middle;
+}
+a {
+  font-size: 18px;
+  list-style: none;
+  text-align: center;
+  color: #0909e0;
+  width: 80px;
+  padding: 2px 12px;
+  text-decoration-line: none;
+  margin: 12px 6px;
+  text-align: center;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+a:hover,
+a:focus {
+  background: #00000010;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+a:active {
+  background: #00000025;
+}
+#links {
+  li {
+    margin: 16px 0 16px;
+    font-size: 18px;
+    color: #000;
+  }
+}
