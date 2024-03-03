@@ -32,7 +32,7 @@ nav {
           <li>💖My favorite characters is...</li>
           <ul>
             <li type="circle"><strong>Mahiro Oyama</strong> and <strong>Mihari Oyama</strong> from "お兄ちゃんはおしまい！"</li>
-            <li type="circle"><strong>Amane Lily</strong> from "愚かな天使は悪魔と踊る"</li>
+            <li type="circle"><strong>Lily Amane</strong> from "愚かな天使は悪魔と踊る"</li>
             <li type="circle"><strong>Arisu Sakayanagi</strong> and <strong>Kiyotaka Ayanokouji</strong> from "ようこそ実力至上主義の教室へ"</li>
             <li type="circle"><strong>Liesch</strong> from "薬屋のひとりごと"</li>
             <li type="circle">
@@ -47,7 +47,7 @@ nav {
       <div id="links">
         <ul>
           <li>
-            Github: <NuxtLink to="https://github.com/070ry">070ry</NuxtLink>,
+            Github:>,
             <NuxtLink to="https://github.com/i14a-dsc">i14a-dsc</NuxtLink>
           </li>
           <li>
@@ -56,6 +56,10 @@ nav {
             <NuxtLink to="https://discord.com/users/649922410103046145">@i14a_</NuxtLink>
           </li>
           <li>YouTube: <NuxtLink to="https://youtube.com/@070ry">@070ry</NuxtLink></li>
+          <li>Homepages: <NuxtLink to="https://onews.f5.si">old(onews)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/onews">070ry/onews</NuxtLink>), 
+          <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>), 
+          <NuxtLink to="https://070ry.pages.dev">now</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/new">070ry/ne</NuxtLink>)
+          </li>
         </ul>
       </div>
     </main>
