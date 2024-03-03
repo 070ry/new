@@ -1,12 +1,49 @@
+<style lang="scss">
+nav {
+  a {
+    padding: 8px 24px;
+  }
+}
+</style>
 <template>
   <div>
     <header>
       <nav>
-        <NuxtLink to="#about"><MdiIcon icon="mdiAccount" /> About</NuxtLink>
-        <NuxtLink to="#links"><MdiIcon icon="mdiLink" /> Links</NuxtLink>
+        <img src="/assets/images/gorila.svg" width="32px" />
+        <!-- <a href="#about"><MdiIcon icon="mdiAccount" /> About</a> -->
+        <!-- <a href="#links"><MdiIcon icon="mdiLink" /> Links</a> -->
       </nav>
     </header>
     <main>
+      <div id="about">
+        <hr color="black" />
+        <h1>Hi, there👋</h1>
+        <h2>I'm 070ry!</h2>
+        <ul>
+          <li>🌏I'm live in Japan.</li>
+          <li>🦜I speak Japanese.</li>
+          <li>🏫I'm high school student. I'm 17 years old.</li>
+          <li>🤓I like TypeScript and .</li>
+          <li>🦍I like gorila emoji</li>
+          <li>🥚I love boiled eggs!</li>
+          <li>🎮My favorite game is Minecraft.</li>
+          <li>📺My favorite anime/manga is "お兄ちゃんはおしまい！" and "愚かな天使は悪魔と踊る"</li>
+          <li>💻I'm using Windows 11 Home/Pro and ZorinOS 17 Core and Ubuntu 22.04.6 LTS</li>
+          <li>💖My favorite characters is...</li>
+          <ul>
+            <li type="circle"><strong>Mahiro Oyama</strong> and <strong>Mihari Oyama</strong> from "お兄ちゃんはおしまい！"</li>
+            <li type="circle"><strong>Amane Lily</strong> from "愚かな天使は悪魔と踊る"</li>
+            <li type="circle"><strong>Arisu Sakayanagi</strong> and <strong>Kiyotaka Ayanokouji</strong> from "ようこそ実力至上主義の教室へ"</li>
+            <li type="circle"><strong>Liesch</strong> from "薬屋のひとりごと"</li>
+            <li type="circle">
+              <strong>Frieren</strong>, <strong>Himmel</strong>, <strong>Eisen</strong>, <strong>Fern</strong>, <strong>Flamme</strong> from "葬送のフリーレン"
+            </li>
+            <li type="circle"><strong>Shiori Katase</strong> from "うちの会社の小さい先輩の話"</li>
+            <li type="circle"><strong>Anos Voldigord</strong> from "魔王学院の不適合者"</li>
+            <li value="*">There may be a translation error.</li>
+          </ul>
+        </ul>
+      </div>
       <div id="links">
         <ul>
           <li>

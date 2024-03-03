@@ -7,6 +7,8 @@
 .cache
 dist    
 *.bat
+debugger.js
+
 # Node dependencies
 node_modules
 
