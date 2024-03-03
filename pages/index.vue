@@ -47,7 +47,7 @@ nav {
       <div id="links">
         <ul>
           <li>
-            Github:>,
+            Github: <NuxtLink to="https://github.com/070ry">070ry</NuxtLink>,
             <NuxtLink to="https://github.com/i14a-dsc">i14a-dsc</NuxtLink>
           </li>
           <li>
