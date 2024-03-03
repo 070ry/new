@@ -58,7 +58,7 @@ nav {
           <li>YouTube: <NuxtLink to="https://youtube.com/@070ry">@070ry</NuxtLink></li>
           <li>Homepages: <NuxtLink to="https://onews.f5.si">old(onews)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/onews">070ry/onews</NuxtLink>), 
           <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>), 
-          <NuxtLink to="https://070ry.pages.dev">now</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/new">070ry/ne</NuxtLink>)
+          <NuxtLink to="https://070ry.pages.dev">now</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/new">070ry/new</NuxtLink>)
           </li>
         </ul>
       </div>
