@@ -3,5 +3,6 @@ export default defineNuxtConfig({
   modules: ['nuxt-mdi'],
   css: ['@/assets/styles/main.scss'],
   ssr: true,
+  target: 'static',
   devtools: { enabled: true },
 });
