@@ -56,9 +56,10 @@ nav {
             <NuxtLink to="https://discord.com/users/649922410103046145">@i14a_</NuxtLink>
           </li>
           <li>YouTube: <NuxtLink to="https://youtube.com/@070ry">@070ry</NuxtLink></li>
-          <li>Homepages: <br />
+          <li class="links-hp">
+            Homepages: <br />
             <NuxtLink to="https://onews.f5.si">old(onews)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/onews">070ry/onews</NuxtLink>),<br />
-            <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>),<br /> 
+            <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>),<br />
             <NuxtLink to="https://070ry.pages.dev">now (with nuxt3)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/new">070ry/new</NuxtLink>)
           </li>
         </ul>

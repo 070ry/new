@@ -1,8 +1,9 @@
 <template>
   <div>
-    <div class="debug">{{ size.width }} x {{ size.height }}</div>
+    <div class="size">{{ size.width }} x {{ size.height }}</div>
     <div class="warn" id="warn">
-      <p>Your browser window size is too small. Some designs may be broken. <strong>Recommended size is >480x320</strong></p>
+      <div class="warn-bg"></div>
+      <p>Your browser window size is too small. Some designs may be broken. <strong>Recommended size is >520x320</strong></p>
       <button class="warn-button" ref="cfa">Ok! nevermind!</button>
     </div>
     <NuxtPage />
