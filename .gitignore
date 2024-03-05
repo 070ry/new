@@ -5,10 +5,10 @@
 .nitro
 .yarn
 .cache
-dist    
+dist
 *.bat
 debugger.js
-
+yarn.lock
 # Node dependencies
 node_modules
 
