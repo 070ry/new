@@ -10,11 +10,11 @@ nav {
     <header>
       <nav>
         <img src="/assets/images/gorila.svg" width="32px" />
-        <!-- <a href="#about"><MdiIcon icon="mdiAccount" /> About</a> -->
-        <!-- <a href="#links"><MdiIcon icon="mdiLink" /> Links</a> -->
       </nav>
     </header>
     <main>
+      <a href="#about"><MdiIcon icon="mdiAccount" /> About</a>
+      <a href="#links"><MdiIcon icon="mdiLink" /> Links</a>
       <div id="about">
         <hr color="black" />
         <h1>Hi, there👋</h1>
@@ -57,9 +57,10 @@ nav {
           </li>
           <li>YouTube: <NuxtLink to="https://youtube.com/@070ry">@070ry</NuxtLink></li>
           <li class="links-hp">
-            Homepages: <br />
-            <NuxtLink to="https://onews.f5.si">old(onews)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/onews">070ry/onews</NuxtLink>),<br />
-            <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>),<br />
+            Homepages: <br /><br />
+            <NuxtLink to="https://onews.f5.si">old(onews)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/onews">070ry/onews</NuxtLink>),<br /><br />
+            <NuxtLink to="https://old-070ry.pages.dev">old(070ry)</NuxtLink> (repo:
+            <NuxtLink to="https://github.com/070ry/old">070ry/old</NuxtLink>),<br /><br />
             <NuxtLink to="https://070ry.pages.dev">now (with nuxt3)</NuxtLink> (repo: <NuxtLink to="https://github.com/070ry/new">070ry/new</NuxtLink>)
           </li>
         </ul>
