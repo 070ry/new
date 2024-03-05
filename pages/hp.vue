@@ -8,7 +8,7 @@ onMounted(() => {
   location.href = 'https://old-070ry.pages.dev/hp';
 });
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 .size,
 .warn {
   visibility: hidden !important;
